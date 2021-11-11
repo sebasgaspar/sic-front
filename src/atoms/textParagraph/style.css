@@ -1,0 +1,20 @@
+.text-box h1{
+    display: block;
+    text-align: left;
+    color: #48596E;
+    padding: 1rem 3rem;
+}
+.text-box p{
+    text-align: left;
+    margin: 2rem 0;
+    padding: 1rem 3rem;
+    width: 50%;
+}
+.paragraph-right p{
+    position: relative;
+    float: right;
+}
+.paragraph-left p{
+    position: relative;
+    float: left;
+}

@@ -1,0 +1,12 @@
+.nav-item{
+    padding: 1rem;
+    margin: 0px 1rem;
+}
+.nav-item a{
+    color: #48596E;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.nav-item a:hover{
+    color: #212933;
+}

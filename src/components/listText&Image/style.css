@@ -1,0 +1,13 @@
+.container-list{
+    margin: 0 2rem;
+}
+.container-list h1{
+    display: block;
+    text-align: left;
+    color: #48596E;
+    padding: 1rem 3rem;
+}
+.list-box{
+    margin: 0 4rem;
+    padding: 0 4rem;
+}

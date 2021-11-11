@@ -1,0 +1,14 @@
+.faq-row-wrapper .faq-title h2{
+    color: #48596E;
+    font-size: 40px;
+}
+.faq-row-wrapper .faq-title{
+    margin-bottom: 2rem;
+}
+.faq-container{
+    margin: 0 2rem;
+    padding: 1rem 3rem;
+}
+.row-content  .row-content-text{
+    text-align: left;
+}

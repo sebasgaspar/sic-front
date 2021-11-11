@@ -1,0 +1,13 @@
+.navbar{
+    padding: 0rem 4rem; 
+}
+.imgBox{
+    background-color: #48596E;
+    width: 9rem;
+    height: 4rem;
+}
+.imgBox img{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}

@@ -1,0 +1,8 @@
+export { NavBar } from './navBar'
+export { TextVideoComponent } from './text&Video'
+export { TextImageComponent } from './text&Image'
+export { ListTextImage } from './listText&Image'
+export { FAQComponent } from './FAQ'
+export { FooterComponent } from './footer'
+export {FormRegisterComponent} from './formRegister'
+export {FormLoginComponent} from './formLogin'
